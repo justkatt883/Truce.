@@ -32,8 +32,8 @@
   </section>  <section id="contact" class="contact">
     <h2>Contact Us</h2>
     <form>
-      <input type="text" placeholder="Your Name" required />
-      <input type="email" placeholder="Your Email" required />
+      <input type="text" placeholder="Katleho" required />
+      <input type="skhosanakatleho7@gmail.com" placeholder="Your Email" required />
       <textarea placeholder="Your Message"></textarea>
       <button type="submit">Send</button>
     </form>
